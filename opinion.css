@@ -1,9 +1,9 @@
 @media (color) {
-  ::selection { background: #010101; color: orangered }
+  ::selection { background: #010101; color: orange }
   .flora :not(.nativa) { color: inherit }
   .sol.sol { background: gold; color: #090909 }
-  .luna.luna { background: #090909; color: hotpink }
-  .jugo.jugo { background: hotpink; color: #090909 }
+  .luna.luna { background: #090909; color: deepskyblue }
+  .jugo.jugo { background: deepskyblue; color: deepskyblue }
   .metal.metal { background: silver; color: #090909 }
 }
 
